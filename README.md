@@ -11,8 +11,6 @@ pip install streamlit
 streamlit run app.py
 ```
 
-Opens at: http://localhost:8501
-
 ## What it demonstrates
 - 6-step animated pipeline (CAD ingestion → feature extraction → RAG retrieval → LLM reasoning → anomaly detection → report)
 - 3 realistic sample CAD files (bracket, headlamp housing, EV motor bracket)
