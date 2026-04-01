@@ -1,5 +1,5 @@
 # DesignGuard AI — Simulation Demo
-### Varroc Eureka Challenge 3.0 | Problem Statement 9
+### Varroc Eureka Challenge 3.0 | Problem Statement 9.0
 **KKS Suhith Babu** | B.Tech CSE | SRM IST Trichy | 2027
 
 ---
